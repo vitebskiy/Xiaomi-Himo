@@ -1,7 +1,9 @@
-# Верстка макета Xiaomi Himo C26 с адаптацией
+## <h1 align="center">Layout | <a href="https://i.postimg.cc/brbcfNsC/2023-11-26-10-43-16.png" target="_blank">Xiaomi Himo C26</a> 
 
-Адаптивная верстка лейдинга Xiaomi Himo C26 
+<img src="https://i.postimg.cc/brbcfNsC/2023-11-26-10-43-16.png"/></h1>
 
-<a href="https://vitebskiy.github.io/Xiaomi-Himo/">Демо</a>
+## How to use
+1. Install deps `npm i`
+2. Run `gulp`
 
-<a href="https://www.figma.com/file/id8BzLAhwCPxiihtm4p1qX/Xiaomi-Himo-C26?node-id=0%3A1&t=aTZRl4Aka1nraAcl-0">Макет Xiaomi Himo(Figma)</a>
+### Demo: <a href="https://i.postimg.cc/brbcfNsC/2023-11-26-10-43-16.png" target="_blank">Xiaomi Himo C26</a> 
